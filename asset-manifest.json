@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/tusharsingh2000/numberFindingGame/static/css/main.1782ddda.chunk.css",
-    "main.js": "/tusharsingh2000/numberFindingGame/static/js/main.60450dcb.chunk.js",
-    "main.js.map": "/tusharsingh2000/numberFindingGame/static/js/main.60450dcb.chunk.js.map",
-    "runtime-main.js": "/tusharsingh2000/numberFindingGame/static/js/runtime-main.b2e11e5e.js",
-    "runtime-main.js.map": "/tusharsingh2000/numberFindingGame/static/js/runtime-main.b2e11e5e.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/tusharsingh2000/numberFindingGame/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.026f41c1.chunk.js": "/tusharsingh2000/numberFindingGame/static/js/2.026f41c1.chunk.js",
-    "static/js/2.026f41c1.chunk.js.map": "/tusharsingh2000/numberFindingGame/static/js/2.026f41c1.chunk.js.map",
-    "index.html": "/tusharsingh2000/numberFindingGame/index.html",
-    "precache-manifest.7b9fa2ebc405e8d911abc517f5b9ea2b.js": "/tusharsingh2000/numberFindingGame/precache-manifest.7b9fa2ebc405e8d911abc517f5b9ea2b.js",
-    "service-worker.js": "/tusharsingh2000/numberFindingGame/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/tusharsingh2000/numberFindingGame/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.1782ddda.chunk.css.map": "/tusharsingh2000/numberFindingGame/static/css/main.1782ddda.chunk.css.map",
-    "static/js/2.026f41c1.chunk.js.LICENSE.txt": "/tusharsingh2000/numberFindingGame/static/js/2.026f41c1.chunk.js.LICENSE.txt"
+    "main.css": "/numberfindinggame/static/css/main.1782ddda.chunk.css",
+    "main.js": "/numberfindinggame/static/js/main.6ea34080.chunk.js",
+    "main.js.map": "/numberfindinggame/static/js/main.6ea34080.chunk.js.map",
+    "runtime-main.js": "/numberfindinggame/static/js/runtime-main.e0446ecf.js",
+    "runtime-main.js.map": "/numberfindinggame/static/js/runtime-main.e0446ecf.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/numberfindinggame/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.de81309a.chunk.js": "/numberfindinggame/static/js/2.de81309a.chunk.js",
+    "static/js/2.de81309a.chunk.js.map": "/numberfindinggame/static/js/2.de81309a.chunk.js.map",
+    "index.html": "/numberfindinggame/index.html",
+    "precache-manifest.6976153f3d53df16a3a5ef02e1c0d90c.js": "/numberfindinggame/precache-manifest.6976153f3d53df16a3a5ef02e1c0d90c.js",
+    "service-worker.js": "/numberfindinggame/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/numberfindinggame/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.1782ddda.chunk.css.map": "/numberfindinggame/static/css/main.1782ddda.chunk.css.map",
+    "static/js/2.de81309a.chunk.js.LICENSE.txt": "/numberfindinggame/static/js/2.de81309a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b2e11e5e.js",
+    "static/js/runtime-main.e0446ecf.js",
     "static/css/2.3c03f26f.chunk.css",
-    "static/js/2.026f41c1.chunk.js",
+    "static/js/2.de81309a.chunk.js",
     "static/css/main.1782ddda.chunk.css",
-    "static/js/main.60450dcb.chunk.js"
+    "static/js/main.6ea34080.chunk.js"
   ]
 }
