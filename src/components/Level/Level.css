@@ -1,0 +1,14 @@
+.level{
+    height: 50px;
+    width: 200px;
+    display: flex;
+    margin-left: 20px;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to right, rgb(218, 100, 119) 0% , rgb(58, 58, 206) 100%);
+}
+.set{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

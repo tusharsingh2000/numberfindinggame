@@ -1,0 +1,14 @@
+.yellow{
+    height: 200px;
+    width: 400px;
+    border-radius: 20%;
+    background-color: rgb(221, 211, 67);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 40px;
+    position: relative;
+  animation-name: example;
+  animation-duration: 1s;
+}
